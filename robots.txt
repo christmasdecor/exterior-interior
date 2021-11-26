@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://christmasdecor.github.io/exterior-interior/sitemapx.xml
